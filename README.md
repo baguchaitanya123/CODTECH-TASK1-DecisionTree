@@ -30,8 +30,7 @@ The Decision Tree algorithm works by splitting the dataset based on feature valu
 ## Results
 
 The model achieved a good accuracy score. The visualization below shows how the decision tree classifies the data.
-
-![Result](output.png)
+![Result](output.png.png)
 
 ## Conclusion
 
